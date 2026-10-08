@@ -1,5 +1,5 @@
 ---
-name: "restartx-gitlab-skills"
+name: "devops-gitlab-skills"
 version: "1.1.0"
 display_name: "GitLab 研发协同技能"
 display_name_en: "GitLab DevOps Skill"
