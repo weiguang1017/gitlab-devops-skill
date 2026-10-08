@@ -1,6 +1,11 @@
 ---
-name: gitlab-skills
-description: Manage GitLab projects from the command line — list/inspect projects, list and create issues, list/create/merge merge requests, and list or trigger CI/CD pipelines. Use whenever the user wants to work with a GitLab repo, file an issue, open or merge an MR, or kick off / check a pipeline on GitLab.com or a self-hosted GitLab. 中文触发场景：查 GitLab 项目、建 issue、开/合并 MR、查流水线、触发流水线、看流水线是否通过。
+name: "restartx-gitlab-skills"
+version: "1.1.0"
+display_name: "GitLab 研发协同技能"
+display_name_en: "GitLab DevOps Skill"
+description: "Manage GitLab projects from the command line — list/inspect projects, list and create issues, list/create/merge merge requests, and list or trigger CI/CD pipelines. Use whenever the user wants to work with a GitLab repo, file an issue, open or merge an MR, or kick off / check a pipeline on GitLab.com or a self-hosted GitLab. 中文触发场景：查 GitLab 项目、建 issue、开/合并 MR、查流水线、触发流水线、看流水线是否通过。"
+description_zh: "用命令行直接操作 GitLab：查项目、建 issue、开/合并 MR、查看与触发 CI/CD 流水线。兼容 GitLab.com 与私有化部署 9.0+，自带开箱即用的 Python CLI。"
+description_en: "Operate GitLab from the command line: inspect projects, create issues, open and merge merge requests, and list or trigger CI/CD pipelines. Works with GitLab.com and self-managed GitLab 9.0+, and ships a self-contained Python CLI."
 ---
 
 # GitLab 技能（命令行实操）
